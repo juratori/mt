@@ -7,7 +7,7 @@
 // @license      MIT
 // @match        https://worker.mturk.com/?mturkengine
 // @match        https://www.mturk.com/?mturkengine
-// @require      https://raw.githubusercontent.com/juratori/mt/mturk-engine.latest.raw.user.js
+// @require      https://raw.githubusercontent.com/juratori/mt/main/mturk-engine.latest.raw.user.js?raw=true
 // @grant        none
 // ==/UserScript==
 
