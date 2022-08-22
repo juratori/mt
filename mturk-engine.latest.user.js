@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Mturk Engine (cloned)
-// @namespace    https://github.com/juratori/mturk-engine/
+// @namespace    https://github.com/juratori/mt/
 // @version      1.8.3
 // @description  Earn money more efficiently on Amazon's Mechanical Turk work platform.
 // @author       Anveio (Shovon Hasan)
